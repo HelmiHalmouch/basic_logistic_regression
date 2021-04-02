@@ -1,4 +1,4 @@
-Here is an example of python of logistic regression for classification <br/>
+This repository shows a basic example logistic regression model for classification <br/>
 
 run using command : python main_logistic_regress.py <br/>
 
